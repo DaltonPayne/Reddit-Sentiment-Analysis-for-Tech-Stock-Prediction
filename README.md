@@ -30,7 +30,7 @@ This project performs sentiment analysis on Reddit comments related to major tec
 1. **Clone the Repository**:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/DaltonPayne/Reddit-Sentiment-Analysis-for-Tech-Stock-Prediction
     ```
 
 2. **Run the Analysis**: Open the provided script in a Jupyter Notebook or Python environment and execute the cells in sequence. The main steps are:
