@@ -2,6 +2,10 @@
 
 This project performs sentiment analysis on Reddit comments related to major tech companies and correlates them with the stock prices of those companies. The goal is to understand how online sentiment may influence or reflect the stock performance of companies like Apple, Google, Microsoft, Amazon.
 
+![Tech Stock Graph 1](images/fig1.png)
+![Tech Stock Graph 2](images/fig2.png)
+
+
 ## Features
 
 - **Sentiment Analysis**: Uses Hugging Face's transformer pipeline to analyze the sentiment of Reddit comments related to major tech companies.
