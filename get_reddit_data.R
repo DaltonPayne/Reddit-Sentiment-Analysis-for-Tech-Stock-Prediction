@@ -45,7 +45,7 @@ sorted_data <- combined_data[order(combined_data$company), ]
 print(head(sorted_data))
 
 # Save the sorted data to a CSV file
-write.csv(sorted_data, "tech_threads_year_sorted.csv", row.names = FALSE)
+write.csv(sorted_data, "data/tech_threads_year_sorted.csv", row.names = FALSE)
 
 # Confirmation message
 cat("Data saved successfully as 'tech_threads_year_sorted.csv'")
